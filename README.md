@@ -1,10 +1,3 @@
-<style type="text/css">
-  img {
-    width: auto !important;
-    height: 100px !important;
-  }
-</style>
-
 # Bruno Andrade
 
 ### About
