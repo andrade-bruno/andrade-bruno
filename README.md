@@ -16,8 +16,9 @@ Currently working in [ModalGR](https://modalgr.com.br/) as React Developer Inter
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/no-sql.png">
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/sql.png">
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/mysql.png">
-<img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/visual-basic.png">
+<img align="left" style="margin: 0px 5px 0px 5px" width="80" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/visual-basic.png">
 
+<br>
 ##### Frameworks
 
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/react.png">
@@ -29,6 +30,7 @@ Currently working in [ModalGR](https://modalgr.com.br/) as React Developer Inter
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/styled-components.png">
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/jquery.png">
 
+<br>
 ##### Bundlers/Libraries
 
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/expo.png">
@@ -37,6 +39,7 @@ Currently working in [ModalGR](https://modalgr.com.br/) as React Developer Inter
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/multer.png">
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/vite.svg">
 
+<br>
 ##### Hosting/Services
 
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/git.png">
@@ -48,17 +51,20 @@ Currently working in [ModalGR](https://modalgr.com.br/) as React Developer Inter
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/locaweb.png">
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/dynatrace.png">
 
+<br>
 ##### Related Studd & Interests
 
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/clean-code.png">
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/figma.png">
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/agile-methods.png">
 
+<br>
 ##### Currently Studying
 
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/azure-devops.png">
 <img align="left" style="margin: 0px 5px 0px 5px" width="60" height="60" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/nodejs.png">
 
+<br>
 ### Social Media
 
 <a href="https://www.linkedin.com/in/bruno--andrade/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Andrade-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno--andrade/" alt="Linkedin"/></a>
