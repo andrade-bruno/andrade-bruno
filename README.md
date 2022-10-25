@@ -12,7 +12,7 @@ Currently working in ModalGR as React Developer
 
 #### Languages
 
-<img align="left" style="margin: 0px 5px 0px 5px" src="https://github.com/andrade-bruno/andrade-bruno/blob/master/assets/js6.png">
+<img align="left" style="margin: 0px 5px 0px 5px" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/js6.png">
 
 ### Social Media
 
