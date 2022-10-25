@@ -33,7 +33,7 @@ Currently working in [ModalGR](https://modalgr.com.br/) as React Developer Inter
 <img align="left" style="margin: 0px 5px 0px 5px" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/bootstrap.png">
 <img align="left" style="margin: 0px 5px 0px 5px" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/express.png">
 <img align="left" style="margin: 0px 5px 0px 5px" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/multer.png">
-<img align="left" style="margin: 0px 5px 0px 5px" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/vite.png">
+<img align="left" style="margin: 0px 5px 0px 5px" src="https://github.com/andrade-bruno/andrade-bruno/blob/dev/assets/vite.svg">
 
 ##### Hosting/Services
 
