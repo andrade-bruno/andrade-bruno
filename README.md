@@ -14,6 +14,14 @@ Currently working in [ModalGR](https://modalgr.com.br/) as Jr. Node Developer
 
 <hr>
 
+<div align="center">
+  <a href="https://github.com/andrade-bruno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrade-bruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade-bruno&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<hr>
+
 ### What i've been working with
 
 | **Languages** | **Frameworks** | **Hosting/Services** |
