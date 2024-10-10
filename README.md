@@ -2,9 +2,8 @@
 
 ### About
 
-Web Developer
-
-Currently working in [ModalGR](https://modalgr.com.br/) as Node Developer
+Currently working at HelloGym as Node Developer.
+I have been yorking as web developer since 2019.
 
 <hr>
 
