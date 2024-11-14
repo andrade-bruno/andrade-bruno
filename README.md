@@ -2,7 +2,7 @@
 
 ### About
 
-Currently working at HelloGym as Node Developer.
+Currently working at Fitcomm Group as Fullstack Engineer
 I have been yorking as web developer since 2019.
 
 <hr>
