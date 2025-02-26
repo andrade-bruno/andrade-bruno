@@ -2,8 +2,7 @@
 
 ### About
 
-Currently working at Fitcomm Group as Fullstack Engineer
-I have been yorking as web developer since 2019.
+Fullstack Engineer graduated in computer science, with experience in tech since 2019.
 
 <hr>
 
